@@ -2,7 +2,7 @@
 
 Prueba técnica · Talent Clau. Primera versión de una aplicación web para planificar las visitas de cuatro técnicos a obras de varios municipios, evitando solapamientos, falta de tiempo de desplazamiento y visitas fuera de jornada.
 
-**Aplicación publicada:** _pendiente de añadir_
+**Aplicación publicada:** https://planificador-visitas-two.vercel.app/
 
 **Stack:** Next.js 15 (App Router) · TypeScript · Node.js · PostgreSQL (`pg`, SQL directo) · zod · Vitest
 
@@ -59,7 +59,6 @@ src/app/ y src/components/   interfaz (una sola página)
 - Autenticación y roles.
 - Tests de integración de la API y un test automático de concurrencia (la protección existe, pero la he probado a mano, no con un test).
 - Paginación del listado y una vista de calendario por técnico.
-- Si no consigo publicarla, la URL de la aplicación desplegada.
 
 ## b) Decisiones principales
 
